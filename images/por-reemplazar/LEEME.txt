@@ -1,0 +1,19 @@
+IMÁGENES TEMPORALES DEL PORTAFOLIO (sección "Productos")
+=========================================================
+
+Estas imágenes son SOLO de muestra para visualizar cómo queda la sección.
+Reemplázalas por fotos reales de la empresa MANTENIENDO EL MISMO NOMBRE y,
+sobre todo, EL MISMO TAMAÑO en píxeles (el tamaño define la cuadrícula/mosaico).
+
+Archivo                                  | Tamaño exacto | Categoría en la web
+-----------------------------------------|---------------|---------------------------------
+papeleria-corporativa-400x600.jpg        | 400 x 600 px  | Papelería corporativa
+merchandising-corporativo-300x300.jpg    | 300 x 300 px  | Merchandising corporativo
+sublimados-personalizados-300x300.jpg    | 300 x 300 px  | Sublimados y personalizados
+gran-formato-senaletica-600x600.jpg      | 600 x 600 px  | Gran formato y señalética
+packaging-etiquetas-600x600.jpg          | 600 x 600 px  | Packaging y etiquetas
+merchandising-sostenible-600x300.jpg     | 600 x 300 px  | Merchandising sostenible
+
+Nota: actualmente se generaron recortando los mockups existentes de
+images/dettagli/. Cuando tengas fotos dedicadas del portafolio, reemplaza
+cada archivo aquí (mismo nombre y tamaño) y la web se actualizará sola.
